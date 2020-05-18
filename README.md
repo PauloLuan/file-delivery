@@ -1,3 +1,21 @@
+<p align="center">
+    I was responsible for developing this project for a client called <a href="http://www.inpe.br/" target="_blank" rel="noopener noreferrer">INPE</a> (Brazilian equivalent to NASA.)
+</p>
+
+<h1 align="center">
+    <img alt="INPE logo" src="https://pbs.twimg.com/media/DZeNSlvW0AcYPNH.png" width="200px" />
+</h1>
+
+<p align="center">
+    This project is a fork of the <a href="https://github.com/terrabrasilis/file-delivery/" target="_blank" rel="noopener noreferrer">original Open-Source repository</a> (in which is registered under the MIT License).
+    </br>
+    </br>
+</p>
+
+<h3 align="center">
+    Node.JS API that deliveries different versions of a file based on the JWT role.
+</h3>
+
 # file-delivery [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url] [![standard][standard-image]][standard-url] [![forthebadge][60time-image]][60time-url]
 
 ## NODE VERSION
